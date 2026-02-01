@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on building decentralized apps and exploring AI/ML models.<br>👯 I’m looking to collaborate on Hackathons and open-source contributions in the AI & Web3 space.<br>🤝 I’m looking for help with getting started with Solana development and Rust. <br>🌱 I’m currently learning Smart Contract development, Blockchain architecture, and GenAI.<br>💬 Ask me about Full Stack Development, the MERN Stack, and Hackathon strategies.<br>⚡ Fun fact: I'm a first-year student diving deep into Web3 and AI Agents. 
+🔭 I’m currently working on Bitcoin Dev Kit (React Native Bindings)<br>👯 I’m looking to collaborate on Open Source Bitcoin Wallets<br>🤝 I’m looking for help with getting started with Solana development and Rust. <br>🌱 I’m currently learning Rust & Bitcoin Protocol Development<br>⚡ Fun fact: I built a functional Bitcoin wallet environment in my first semester. 
 
 
 ## 🌐 Socials:
