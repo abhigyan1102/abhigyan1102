@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Bitcoin Dev Kit (React Native Bindings)<br>👯 I’m looking to collaborate on Open Source Bitcoin Wallets<br>🤝 I’m looking for help with getting started with Solana development and Rust. <br>🌱 I’m currently learning Rust & Bitcoin Protocol Development<br>⚡ Fun fact: I built a functional Bitcoin wallet environment in my first semester. 
+🔭 I’m currently working on Bitcoin Dev Kit (React Native Bindings)<br>👯 I’m looking to collaborate on Open Source Bitcoin Wallets<br>🌱 I’m currently learning Rust & Bitcoin Protocol Development<br>⚡ Fun fact: I built a functional Bitcoin wallet environment in my first semester. 
 
 
 ## 🌐 Socials:
