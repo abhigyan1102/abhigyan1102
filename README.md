@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Bitcoin Dev Kit (React Native Bindings)<br>👯 I’m looking to collaborate on Open Source Bitcoin Wallets<br>🌱 I’m currently learning Rust & Bitcoin Protocol Development<br>⚡ Fun fact: I built a functional Bitcoin wallet environment in my first semester. 
+🔐 Contributing to Hyperledger Identus — 4 PRs in the TypeScript SDK<br>🛡️ Built SolanaGuard — on-chain risk enforcement for AI agents on Solana<br>🌱 Exploring Self-Sovereign Identity, DIDs, and Verifiable Credentials<br>⚡ TypeScript | Rust | Solidity | React
 
 
 ## 🌐 Socials:
