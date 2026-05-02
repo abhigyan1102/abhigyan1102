@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔐 Contributing to Hyperledger Identus — 4 PRs in the TypeScript SDK<br>🛡️ Built SolanaGuard — on-chain risk enforcement for AI agents on Solana<br>🌱 Exploring Self-Sovereign Identity, DIDs, and Verifiable Credentials<br>⚡ TypeScript | Rust | Solidity | React
+🔐 Contributing to Hyperledger Identus in the TypeScript SDK<br>🛡️ Built SolanaGuard — on-chain risk enforcement for AI agents on Solana<br>🌱 Exploring Self-Sovereign Identity, DIDs, and Verifiable Credentials<br>⚡ TypeScript | Rust | Solidity | React
 
 
 ## 🌐 Socials:
