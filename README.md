@@ -21,7 +21,3 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=abhigyan1102&limit=5&theme=aura_dark&combine_all_yearly_contributions=true)
 
----
-[![](https://komarev.com/ghpvc/?username=abhigyan1102&icon=6&color=8)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
