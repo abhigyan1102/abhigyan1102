@@ -18,6 +18,3 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=abhigyan1102&limit=5&theme=aura_dark&combine_all_yearly_contributions=true)
-
