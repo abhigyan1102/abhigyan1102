@@ -12,4 +12,7 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=abhigyan1102&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=abhigyan1102&color=74c7ec&style=flat-square&label=PROFILE+VIEWS" alt="abhigyan1102" />
+</p>
 
